@@ -37,5 +37,5 @@ VisualG/
 ---
 
 <p align="center">
-  Desenvolvido por <a href="https://github.com/LucMNS"><b>LucMNS</b></a>
+  Desenvolvido por <a href="https://github.com/Gus4Dev"><b>Gus4Dev</b></a>
 </p>
